@@ -1,4 +1,9 @@
+
 body {
-    background-color: #21006F;
-    color: yellow;
+    background-color: #250000;
+    color: ghostwhite;
 }
+
+ .cabecalho-imagem {
+    width: 25%;   
+ }
